@@ -1,1 +1,0 @@
-```\Documents\Maniaplanet\Skins\Models\StadiumCar```
